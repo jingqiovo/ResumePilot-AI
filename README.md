@@ -5,7 +5,7 @@
 > 本版本使用模拟数据展示完整的 AI 简历分析体验流程，涵盖从上传、岗位 JD 分析、AI 分析过程展示到结果编辑和版本管理的全部交互节点。后续可接入真实的简历解析服务和语言模型 API。
 
 ---
-# 项目在线演示地址 https://qianren.shop/
+## 项目在线演示地址 https://qianren.shop/
 ---
 
 ## 为什么做这个项目
@@ -146,7 +146,7 @@ npm run build
 
 ### 首页
 
-![首页](https://raw.githubusercontent.com/jingqiovo/ResumePilot-AI/main/screenshots/home.png)
+![首页](https://raw.githubusercontent.com/jingqiovo/ResumePilot-AI/main/screenshots/home1.png)
 
 ### AI 分析过程
 
